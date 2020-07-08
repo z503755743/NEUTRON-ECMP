@@ -1,0 +1,11 @@
+include AUTHORS
+include ChangeLog
+
+include neutron_inspur/db/migration/README
+include neutron_inspur/db/migration/alembic_migrations/script.py.mako
+recursive-include neutron_inspur/db/migration/alembic_migrations/versions *
+
+exclude .gitignore
+exclude .gitreview
+
+global-exclude *.pyc

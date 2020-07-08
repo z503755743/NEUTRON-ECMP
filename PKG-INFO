@@ -1,0 +1,51 @@
+Metadata-Version: 1.1
+Name: neutron-inspur
+Version: 0.0.1
+Summary: OpenStack Networking Inspur
+Home-page: http://git.inspur.com/vpc/neutron-inspur
+Author: HU-Zhangfeng
+Author-email: huzf@inspur.com
+License: UNKNOWN
+Description: ========================
+        Team and repository tags
+        ========================
+        
+        .. image:: https://governance.openstack.org/tc/badges/neutron-fwaas.svg
+            :target: https://governance.openstack.org/tc/reference/tags/index.html
+        
+        .. Change things from this point on
+        
+        Welcome!
+        ========
+        
+        This package contains the code for the Neutron Firewall as a Service
+        (FWaaS) service. This package requires Neutron to run.
+        
+        External Resources:
+        ===================
+        
+        The homepage for Neutron is: https://launchpad.net/neutron.  Use this
+        site for asking for help, and filing bugs. We use a single Launchpad
+        page for all Neutron projects.
+        
+        Code is available on git.openstack.org at:
+        <https://git.openstack.org/cgit/openstack/neutron-fwaas>.
+        
+        Please refer to Neutron documentation for more information:
+        `Neutron README.rst <https://git.openstack.org/cgit/openstack/neutron/tree/README.rst>`_
+        
+        Get release notes:
+        `Neutron FWaaS Release Notes <https://docs.openstack.org/releasenotes/neutron-fwaas/>`_
+        
+        
+Platform: UNKNOWN
+Classifier: Environment :: OpenStack
+Classifier: Intended Audience :: Information Technology
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
